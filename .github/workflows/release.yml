@@ -31,4 +31,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64,linux/arm64,linux/386
           push: true
-          tags: java/petclinic:1.0.0
+          tags: jahnavimanne/github-cicd:1.0.0
